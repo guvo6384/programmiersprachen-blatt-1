@@ -1,0 +1,3 @@
+/home/snj7/programmiersprachen-blatt-1/build/source/CMakeFiles/helloworld.dir
+/home/snj7/programmiersprachen-blatt-1/build/source/CMakeFiles/mileToKilometer.dir
+/home/snj7/programmiersprachen-blatt-1/build/source/CMakeFiles/tests.dir
