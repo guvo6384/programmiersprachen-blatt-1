@@ -1,0 +1,30 @@
+Glossar
+C++: Programmiersprache
+Quellcode: Code eines Programms
+Compiler: "Übersetzt" programmiersprache für computer
+Linker: Verbindet Programmmodule zu einem Programm
+Objektcode: Zwischenergebnis eines Compilers
+Ausführbare Datei: Ein Programm was gewisse aufgaben erledigt
+main(): 
+#include: includiert gewisse libraries
+Kommentar: erklärt gewisse commandos im Quellcode
+Header: enthält informationen 
+Programm: aus code bestehende datei die ausführbar ist
+Ausgabe: Was das programm anhand der eingaben ausgeben soll
+std::cout: kommandozeilen eingabe
+std::cin: bestimmt die benutzte variable in der cout eingabe
+<<: anfang des angezeigten textes
+>>: ende des angezeigten textes
+Funktion: mathematische formel zur berechnung von Dingen
+Funktionssignatur:
+Deklaration: angeben das funktion existiert
+Definition: eine funktion bestimmen
+Typ: DAtei format (int, double, etc.)
+Typkonvertierung: von einem format in ein anderes ändern
+Variable: beliebige zahl
+Name: zugewiesener name zu einer variablen
+Wert: zugewiesener wert einer variablen
+initialiesierung: variable mit bestimmten wert anlegen
+zuweisung: einer variablen einen wert zuweisen
+const: eine variable in eine constante ändern
+Gültigkeitsbereich: bereich in dem eine variable gilt
