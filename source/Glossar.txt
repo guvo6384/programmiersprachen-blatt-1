@@ -5,7 +5,7 @@ Compiler: "Übersetzt" programmiersprache für computer
 Linker: Verbindet Programmmodule zu einem Programm
 Objektcode: Zwischenergebnis eines Compilers
 Ausführbare Datei: Ein Programm was gewisse aufgaben erledigt
-main(): 
+main(): erste ausgeführte methode
 #include: includiert gewisse libraries
 Kommentar: erklärt gewisse commandos im Quellcode
 Header: enthält informationen 
@@ -16,7 +16,7 @@ std::cin: bestimmt die benutzte variable in der cout eingabe
 <<: anfang des angezeigten textes
 >>: ende des angezeigten textes
 Funktion: mathematische formel zur berechnung von Dingen
-Funktionssignatur:
+Funktionssignatur: Name und DAtentyp
 Deklaration: angeben das funktion existiert
 Definition: eine funktion bestimmen
 Typ: DAtei format (int, double, etc.)
